@@ -1,6 +1,5 @@
 # Lab1
 This is Lab one.
-<br>
-author - Nimra
-Name 
-hammad 087
+Console.WriteLine("Enter the name");
+string name=Console.ReadLine();
+Console.ReadLine();
